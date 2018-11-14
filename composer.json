@@ -1,6 +1,6 @@
 {
     "name": "lhszevedo/slim-pug-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "description": "A Slim Framework skeleton application with Pug support for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7", "pug"],
     "homepage": "http://github.com/lhsazevedo/Slim-Pug-Skeleton",
     "license": "MIT",
