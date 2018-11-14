@@ -1,20 +1,23 @@
 {
-    "name": "slim/slim-skeleton",
+    "name": "lhszevedo/slim-pug-skeleton",
     "description": "A Slim Framework skeleton application for rapid development",
-    "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "keywords": ["microframework", "rest", "router", "psr7", "pug"],
+    "homepage": "http://github.com/lhsazevedo/Slim-Pug-Skeleton",
     "license": "MIT",
     "authors": [
         {
             "name": "Josh Lockhart",
             "email": "info@joshlockhart.com",
             "homepage": "http://www.joshlockhart.com/"
+        }, {
+            "name": "Lucas Henrique Azevedo",
+            "email": "lhs_azevedo@hotmail.com"
         }
     ],
     "require": {
         "php": ">=5.5.0",
         "slim/slim": "^3.1",
-        "slim/php-view": "^2.0",
+        "pug/slim": "^1.1.0",
         "monolog/monolog": "^1.17"
     },
     "require-dev": {
