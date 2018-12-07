@@ -1,5 +1,5 @@
 {
-    "name": "lhszevedo/slim-pug-skeleton",
+    "name": "lhsazevedo/slim-pug-skeleton",
     "description": "A Slim Framework skeleton application with Pug support for rapid development",
     "type": "project",
     "keywords": ["microframework", "rest", "router", "psr7", "pug"],
